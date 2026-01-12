@@ -3,5 +3,5 @@
 # jokes = pyjokes.get_jokes()
 # print(jokes)
 
-import django
-print(django.get_version())
+# import django
+# print(django.get_version())
